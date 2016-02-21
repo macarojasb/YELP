@@ -1,7 +1,7 @@
 
-# YELP# Project 3 - *Name of App Here*
+# YELP# Project 3 - *YELP*
 
-**Name of your app** is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
+**YELP** is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
 
 Time spent: **5** hours spent in total
 
